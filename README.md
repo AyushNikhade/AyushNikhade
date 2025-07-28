@@ -4,7 +4,7 @@
 ---
 
 ### 🌐 Portfolio:
-🚀 [put portfolio here](https://pradumyelame.vercel.app/)
+🚀 [put portfolio here](https://)
 
 📍 From **Nagpur, Maharashtra, India**  
 🎓 Pursuing **B.Tech in Computer Science** @ Walchand College Of Engineering, Sangli (2022–2026)  
